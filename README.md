@@ -69,7 +69,7 @@ La paleta de colores utilizada en el sistema incluye los siguientes tonos:
 
 ---
 
-**Autor:** _[Walter Morel Noguera]_
+**Autor:** [walternoguera.com](https://walternoguera.com)
 
 
 
